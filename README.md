@@ -1,7 +1,5 @@
-
 # Simple Smile Detector
 
 Simple smile detector using OpenCV. based on haarcascade xml files.
 
-
-https://user-images.githubusercontent.com/4135420/130332459-2913ba12-0de3-4057-a9c5-37aa682e317c.mp4
+![arnold-schwarzenegger](https://user-images.githubusercontent.com/4135420/130332495-12be197e-2875-4342-a7ef-11ac9483fc5d.gif)
